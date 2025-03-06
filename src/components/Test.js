@@ -3,20 +3,19 @@ const Test = () => {
     <div className="test">
       <div className="test-content">
         <div className="tests">
-          <strong>TESTIMONIALS</strong>
-          <h1>What people say<br />about our blog</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur<br />adipiscing elit, sed do eiusmod tempor.</p>
+          <strong>ОТЗЫВЫ</strong>
+          <h1>Что люди говорят<br />о нашем сервисе</h1>
         </div>
         <div className="delimeter"></div>
         <div className="test-text">
           <div className="text">
-            <p>Lorem ipsum dolor sit amet,<br />consectetur adipiscing elit, sed do<br />eiusmod tempor incididunt ut labore et<br />dolore magna aliqua.</p>
+            <p>"Если вы просите только три цифры на обороте карты, то я не против 😏"</p>
           </div>
           <div className="test-author">
-            <img src="https://s3-alpha-sig.figma.com/img/63bf/0ebe/baf975398b74732b52898a2562dfa9a6?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=CSxByPuFfff2zjPP2007vM2tUVLQb9znrxHD-wpNI3zDAAZibG4P55d~BLL-aXxoJSBif1SOWFucWmIyrXb7xkBf9ZUmNkxVaP3tbS6xG8-JvoZpu27hiq4EsxRIY84VYeO2y8jABYPZio4b9sWNOaZOkzzc~5uZAjLaqo1kapLPMBwUq2Iz2ypRsqdf6HJFV796LoD-vRYV5FDH5dl3T-A7koRoY74Oi13bTd6ZKj0lDF5fZswKJyiJfxRMMwGGYmt6LzyTsEm2HuNM9iWLIT~feRRP4JN6PRAZeBZTIvTgOCm~duxsQkxqGUMVMeFJmkFp76XJhOFpqRhFri8cPw__" />
+            <img src="https://nkvd.memo.ru/images/thumb/c/c6/%D0%9C%D0%B5%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%2C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87.jpg/166px-%D0%9C%D0%B5%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%2C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87.jpg" alt="Otzyv"/>
             <div className="test-name">
-              <h5>Jonathan Vallem</h5>
-              <p>New york, USA</p>
+              <h5>Иван Меренков</h5>
+              <p>Астана, Казахстан</p>
             </div>
           </div>
         </div>

@@ -3,24 +3,24 @@ const Catagory = () => {
     <div className="catagory">
       <div className="catagory-content">
         <div className="choose">
-          <h1>Choose A Catagory</h1>
+          <h1>Выберите подписку</h1>
         </div>
         <div className="cats">
           <div className="cat-card">
-            <h1>Business</h1>
-            <p>Lorem ipsum dolor sit amet,<br />consectetuer adipiscing elit.</p>
+            <a href="/sign"><h1>Easy-peasy</h1></a>
+            <p>Плюсы: высокая скорость интернета<br />Необходимо Ваше ФИО</p>
           </div>
           <div className="cat-card">
-            <h1>Startup</h1>
-            <p>Lorem ipsum dolor sit amet,<br />consectetuer adipiscing elit.</p>
+            <a href="/sign"><h1>Pro</h1></a>
+            <p>Плюсы: очень высокая скорость интернета<br />Необходимо Ваше ФИО<br />Город проживания</p>
           </div>
           <div className="cat-card">
-            <h1>Economy</h1>
-            <p>Lorem ipsum dolor sit amet,<br />consectetuer adipiscing elit.</p>
+            <a href="/sign"><h1>Legend</h1></a>
+            <p>Плюсы: очень-очень высокая скорость интернета<br />Необходимо Ваше ФИО<br />Город проживания<br />Номер телефона</p>
           </div>
           <div className="cat-card">
-            <h1>Technology</h1>
-            <p>Lorem ipsum dolor sit amet,<br />consectetuer adipiscing elit.</p>
+            <a href="/sign"><h1>Sigma Boy</h1></a>
+            <p>Плюсы: супер-дупер высокая скорость интернета<br />Необходимо Ваше ФИО<br />Город проживания<br />Номер телефона<br />Адрес дома</p>
           </div>
         </div>
       </div>
